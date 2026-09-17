@@ -1,5 +1,5 @@
 # IPL-Dashboard
-# 🏏 IPL Analytics Dashboard | Power BI
+# IPL Analytics Dashboard | Power BI
 
 ## 📊 Project Overview
 
@@ -291,8 +291,4 @@ Data Analytics & Business Intelligence Enthusiast
 
 ---
 
-## ⭐ Project
 
-If you find this project useful or interesting, consider giving the repository a **⭐ Star**.
-
-Feedback and suggestions are always welcome.
